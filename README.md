@@ -17,3 +17,6 @@ This is a simple Password Generator Tool.  USE Openssl (base64 & Hex).
 
 6)bash PWGen.sh or ./PWGen.sh
 
+# Video :
+
+https://www.youtube.com/embed/lGL0ClwKBAA
