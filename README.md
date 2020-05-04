@@ -1,6 +1,7 @@
 # PWGenTool
 This is a simple Password Generator Tool.  USE Openssl (base64 & Hex).
 
+<img src="Pwgen.jpg" width="100%"></img>
 
 # installation Setup for Termux
 
@@ -16,9 +17,3 @@ This is a simple Password Generator Tool.  USE Openssl (base64 & Hex).
 
 6)bash PWGen.sh or ./PWGen.sh
 
-# video
-
-
-<video width="320" height="240" controls>
-  <source src="https://youtu.be/lGL0ClwKBAA" type="video/mp4">
-</video>
