@@ -32,9 +32,10 @@ openssl rand -${format} 48 | cut -c1-${pwgen1}
 done
 }
 clear
+echo "-------------------------------------------------------"
 echo -e "\e[1;37mYour Generate Password =\e[0m  "
            pwgen
-
+echo "-------------------------------------------------------"
 
 
 
